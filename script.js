@@ -1,4 +1,4 @@
-
+//this is js  file
 const search=document.querySelector("button");
 search.addEventListener("click",()=>{
 
